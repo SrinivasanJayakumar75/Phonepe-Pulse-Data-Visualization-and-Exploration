@@ -10,4 +10,4 @@ DOMAIN : DATA SCIENCE
 
 DEMO VIDEO URL :https://www.youtube.com/watch?v=na2iyw_271I
 
-LINKED IN URL :
+LINKED IN URL :https://www.linkedin.com/in/srinivasan-j-61961928b/
