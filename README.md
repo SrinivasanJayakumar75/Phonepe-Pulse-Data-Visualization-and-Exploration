@@ -8,6 +8,6 @@ BATCH: DW65DW66
 
 DOMAIN : DATA SCIENCE
 
-DEMO VIDEO URL :https://www.youtube.com/watch?v=na2iyw_271I
+DEMO VIDEO URL :https://www.linkedin.com/feed/update/urn:li:activity:7125446591565479938/
 
 LINKED IN URL :https://www.linkedin.com/in/srinivasan-j-61961928b/
